@@ -88,4 +88,5 @@ In order to run the tests and receive a test coverage report, we recommend runni
     (Press CTRL+C to quit)
     you are running the latest version
 
+cherry-pick
 ```
